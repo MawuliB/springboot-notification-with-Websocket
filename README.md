@@ -15,4 +15,4 @@ This project is a simple example of how to use Websocket with Scheduled Events i
 This project allows you to Subscribe to a topic and send notifications to all subscribers. It also has a scheduled event that sends a notification to all topics every 24 hours (customizable).
 
 ### Find Frontend Built with Angular Here
-[Angular Frontend](https://github.com/MawuliB/Angular-notification-with-Websocket.git)
+[Angular Frontend](https://github.com/MawuliB/websocket-notification.git)
